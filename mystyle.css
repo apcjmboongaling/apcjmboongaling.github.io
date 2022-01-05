@@ -11,8 +11,7 @@ h1 {
 	color: #9932CC;
 }
 ul {
-	text-align: center;
-	 list-style-position: inside;
+	display: inline-block;
 }
 
 
