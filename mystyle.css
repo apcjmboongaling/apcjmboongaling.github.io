@@ -10,8 +10,5 @@ body {
 h1 {
 	color: #9932CC;
 }
-li span {
-	position: relative;
-	left: -10px;
-}
+
 
